@@ -1,5 +1,7 @@
 ```sh
 npx shadcn-ui@latest add input
+npx prima migrate reset
+npx prima db push
 ```
 
 ```js
